@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848844978298",
+    "project_id": "attendanceapp-bdd1a",
+    "storage_bucket": "attendanceapp-bdd1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848844978298:android:f52e67608c4e187edda3c3",
+        "android_client_info": {
+          "package_name": "com.stimulus.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848844978298-uvkv7hivqm2603gvt291a3ftfqb75l0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe63ig-yl1H4EGFT1oKkJWB79llcrrf7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848844978298-uvkv7hivqm2603gvt291a3ftfqb75l0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

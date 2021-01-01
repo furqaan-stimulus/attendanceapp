@@ -1,0 +1,3 @@
+enum LogTypes {
+  logIn,logOut
+}
